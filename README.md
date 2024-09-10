@@ -6,4 +6,4 @@ Estudo no Alura 🧑‍💻
 Estou desenvolvendo linguagem JavaScript 📓
 Utilizo esse espaço para estudar 😿
 
- https://media1.tenor.com/m/uTu7rUclRIEAAAAd/darkest-dungeon-hopeless.gif
+ ![](https://media1.tenor.com/m/uTu7rUclRIEAAAAd/darkest-dungeon-hopeless.gif)
